@@ -1,0 +1,183 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act for constituting commissioners for ordering and managing the affairs of the admiralty and navy. Ordered by the Parliament, that this Act be forthwith printed and published. Passed May 31. 1659. Tho. St Nicholas Clerk of the Parliament.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82354</idno>
+            <idno type="STC">Wing E1009</idno>
+            <idno type="STC">Thomason E1074_3</idno>
+            <idno type="STC">ESTC R208261</idno>
+            <idno type="EEBO-CITATION">99867225</idno>
+            <idno type="PROQUEST">99867225</idno>
+            <idno type="VID">169317</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82354)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169317)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 160:E1074[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act for constituting commissioners for ordering and managing the affairs of the admiralty and navy. Ordered by the Parliament, that this Act be forthwith printed and published. Passed May 31. 1659. Tho. St Nicholas Clerk of the Parliament.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>[2], 12, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by John Field, printer to the Parliament. And are to be sold at the seven Stars in Fleetstreet, over against Dunstans Church,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The last leaf is blank.</note>
+                  <note>Annotation on Thomason copy: "June 3".</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169317:1" rendition="simple:additions"/>
+            <p>AN ACT For Conſtituting COMMISSIONERS For Ordering and Managing the Affairs OF THE Admiralty and Navy.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>ORdered by the Parliament, That this Act be forth<g ref="char:EOLhyphen"/>with Printed and Publiſhed.</p>
+                        <closer>
+                           <dateline>
+                              <date>Paſſed <hi>May</hi> 31. 1659.</date>
+                           </dateline>
+                           <signed>THO. St NICHOLAS Clerk of the Parliament.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by JOHN FIELD, Printer to the Parliament.</p>
+            <p>And are to be ſold at the ſeven Stars in <hi>Fleetſtreet,</hi> over againſt <hi>Dunſtans</hi> Church, 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="act">
+            <pb facs="tcp:169317:2"/>
+            <pb n="1" facs="tcp:169317:2"/>
+            <head>AN ACT For Conſtituting COMMISSIONERS For Ordering and Managing the Affairs OF THE ADMIRALTY &amp; NAVY.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Or the better ordering and ma<g ref="char:EOLhyphen"/>naging of the Affairs of the Ad<g ref="char:EOLhyphen"/>miralty and Navy of this Com<g ref="char:EOLhyphen"/>monwealth, and by the Autho<g ref="char:EOLhyphen"/>rity of the ſame, Be it Enacted by this preſent Parliament, That Sir <hi>Henry Vane</hi> Knight, <hi>George Thompſon, John Carew, Richard Salwey,</hi> Eſqs; Colonel <hi>Wauton, William Say, John Langley, Tho<g ref="char:EOLhyphen"/>mas Boon,</hi> Eſqs; Colonel <hi>Morley,</hi> Colonel <hi>Sal<g ref="char:EOLhyphen"/>mon,</hi> Colonel <hi>Kelſey</hi> and Colonel <hi>Clerk,</hi> or any four or more of them, whereof one of them to be a Member of this Houſe, ſhall be, and are hereby conſtituted and appointed Commiſſioners for the Ordering, Managing, Directing, and carry<g ref="char:EOLhyphen"/>ing on of the Affairs of the Admiralty and Na<g ref="char:EOLhyphen"/>vy of this Commonwealth, and ſhall have, and hereby have committed unto them, the full Care of, and Inſpection into, and directive Power of all the things that concern, or are ne<g ref="char:EOLhyphen"/>ceſſary to the providing and furniſhing the Ships belonging to the Commonwealth for Service, and ſupplying them from time to time. And the ſaid Commiſſioners, or any two or more of them are hereby Authorized and Impowered to
+<pb n="2" facs="tcp:169317:3"/>
+Adminiſter an Oath to any Perſons for the ex<g ref="char:EOLhyphen"/>amination of any matter in relation to the bu<g ref="char:EOLhyphen"/>ſineſs of the Navy. And the ſaid Commiſſioners, or any four or more of them, whereof one of them to be a Member of this Houſe, as afore<g ref="char:EOLhyphen"/>ſaid, are Authoriſed to make ſuch Orders, and iſſue ſuch Warrants for the Repairing and Preſerving the Ships and Veſſels of the Com<g ref="char:EOLhyphen"/>monwealth, and for the Furniſhing them with Stores and Ammunition, and for the Arming, Vietualling, Manning, Setting them forth with all things belonging to them, and eve<g ref="char:EOLhyphen"/>ry of them, as they ſhall judge fit for the ſervice of the Commonwealth, according to ſuch Orders and Directions as they from time to time ſhall receive from the Parliament or Councel of State, and for the Sale and Diſ<g ref="char:EOLhyphen"/>poſal of old and unſerviceable Ships and Veſſels belonging to this Commonwealth, the Proceed thereof to be paid into the Treaſury of the Navy, for the uſe of the Navy, And alſo for the new Building, Preparing, Fitting, Fur<g ref="char:EOLhyphen"/>niſhing, Arming, Victualling, Manning, and Setting forth ſuch Ships and Fleets as they ſhall receive directions for, either from the Par<g ref="char:EOLhyphen"/>liament, or from the Councel of State, ap<g ref="char:EOLhyphen"/>pointed by Authority of Parliament. And the ſaid Commiſſioners, or any four or more of them, whereof one of them to be a Member of this Houſe, as aforeſaid, are hereby Authoriſed and required from time to time, as the Service of the Commonwealth ſhall require, and as they ſhall receive Orders from the Parliament, or Councel of State, to prepare a Liſt of the Names of ſuch Captains, and Maſters, and other Officers of any Ship, Frigot, or Veſſel belonging to this Commonwealth, as they
+<pb n="3" facs="tcp:169317:3"/>
+ſhall judge fit and able for that Service; and alſo what Salaries and Wages they ſhall con<g ref="char:EOLhyphen"/>ceive juſt and fit to be given by the Parliament unto all Captains and Maſters, and other Officers of any Ship, Frigot or Veſſel belong<g ref="char:EOLhyphen"/>ing to this Commonwealth, and alſo to ſuch Mariners, Workmen, and to all Officers and Perſons, who are or ſhall be employed in the Service of the Navy, the ſaid Liſts of the Names of Captains and Maſters, and other Officers of any Ship, Frigot or Veſſel belonging to this Commonwealth, and of Sa<g ref="char:EOLhyphen"/>laries and Wages, to be preſented by the ſaid Commiſſioners in writing unto the Parliament for their Approbation. And the ſaid Com<g ref="char:EOLhyphen"/>miſſioners, or any four or more of them, whereof one of them to be a Member of this Houſe, as aforeſaid, are hereby Authoriſed and Empow<g ref="char:EOLhyphen"/>ered from time to time to Remove, Diſplace, and Diſcharge from their Offices, and Imploy<g ref="char:EOLhyphen"/>ments, belonging to the Navy, or to any Ship or Veſſel of this Commonwealth, any Officers under the Degree of Captains of Ships, and any Mariners, Workmen, or other Perſons employed or to be employed in the Service of the Navy, or of any Ship or Veſſel of this Commonwealth, and to place ſuch other able and fit Perſons in the ſaid Services and Em<g ref="char:EOLhyphen"/>ployments, in the Rooms and Places of the Perſons who ſhall be ſo diſcharged or removed, as by the ſaid Commiſſioners, or any four or more of them, whereof one of them to be a Member of this Houſe, as aforeſaid<g ref="char:punc">▪</g> ſhall be judged and thought fit for the Advantage and Service of the Commonwealth. Provided that nothing in this Act ſhall impeach or alter the Power given unto the Generals at Sea, for the
+<pb n="4" facs="tcp:169317:4"/>
+Removing or Diſplacing of any Officer or Mariner at Sea, and Placing others in their Rooms, in caſe of Exigency. Provided alſo that nothing in this Act ſhall any way impeach or alter the Power and Authority given by the Parliament unto the Iudges of the Admi<g ref="char:EOLhyphen"/>ralty, in all Marine Cauſes, and Cauſes within the Iurisdiction of the Admiralty, which ſhall or may happen. And the ſaid Commiſ<g ref="char:EOLhyphen"/>ſioners, or any four or more of them, whereof one of them to be a Member of this Houſe, as aforeſaid, are hereby Authoriſed and Required by themſelves or any other ſuch fit Perſons whom they ſhall for that purpoſe make Choice of, and Appoint with all convenient Speed, to take or cauſe to be taken, a true and perfect Survey and Accompt of all the Ships, Fri<g ref="char:EOLhyphen"/>gots, Pinnaces, and Veſſels, of or belonging to the Navy; and of all the Ammunition, Tackle, Furniture, Cordage, Timber, and Stores be<g ref="char:EOLhyphen"/>longing to them or any of them, or in the Docks, Yards, Store-houſes, or other Places, belong<g ref="char:EOLhyphen"/>ing to the Commonwealth, of all ſorts; and alſo of all Courſes now held in the Managing, Ordering, or Governing of the Navy, and to deliver the ſame ſo made and taken, in writing unto the Parliament, or ſuch as they ſhall ap<g ref="char:EOLhyphen"/>point to receive the ſame, and therein likewiſe to propound ſuch ways and means for the eſta<g ref="char:EOLhyphen"/>bliſhing of ſuch Orders and Inſtructions for regulating the ſame, as ſhall be found agreeable to the Service of the Commonwealth, and may increaſe the Power and Forces thereof by Sea, and to remove ſuch Corruptions and Abuſes as may prejudice the ſame, and eſpecially may re<g ref="char:EOLhyphen"/>duce the Mariners and Sea-men, and Sea-Services
+<pb n="5" facs="tcp:169317:4"/>
+to good order and obedience; that thereupon ſuch ſpeedy and effectual courſe may be taken by the Parliament or Councel of State, for the ſupplying of all defects, and reforming of all abuſes, as ſhall be neceſſary and behoof<g ref="char:EOLhyphen"/>ful to make and continue the Navy ſerviceable and powerful (by the bleſſing of God) for the ſafety and honor of this Commonwealth. And all Officers and Miniſters, of or belonging to the Navy and Ships, and every of them, from time to time, and all others whom it may con<g ref="char:EOLhyphen"/>cern, are hereby enjoyned and required, That they, and every of them, from time to time be attendant upon the ſaid Commiſſioners, and do carefully and diligently obſerve, execute and per<g ref="char:EOLhyphen"/>form all ſuch Orders, Warrants and Directi<g ref="char:EOLhyphen"/>ons, as the ſaid Commiſſioners, or any four or more of them, whereof one of them to be a Mem<g ref="char:EOLhyphen"/>ber of this Houſe, as aforeſaid, ſhall make, give or direct touching the premiſes, and in pur<g ref="char:EOLhyphen"/>ſuance of this Act; And the ſaid Commiſſioners, or any four or more of them, whereof one of them to be a Member of this Houſe at Land, or any one or more of the Generals at Sea, are hereby Authorized and Impowered at ſuch time or times as they ſhall judge expedient, for the Ser<g ref="char:EOLhyphen"/>vice of the Commonwealth, and Government of the Navy and Army at Sea, to call a Coun<g ref="char:EOLhyphen"/>cel or Councels of War, of Captains or other Officers, as to them ſhall ſeem meet, and to ap<g ref="char:EOLhyphen"/>point a Iudge Advocate to attend the ſaid Councels of War, and to do and perform the Duties of that Place, who is hereby Authorized to Adminiſter an Oath to any perſon or perſons, for the examination of any matter which ſhall be depending before the ſaid Councels of War: And the ſaid Councels of War are hereby Authorized
+<pb n="6" facs="tcp:169317:5"/>
+to cauſe any perſons belonging to the ſaid Navy and Army at Sea, to be Summoned, and to appear before them, and there to proceed to the Trial of any Offenders againſt the Articles, Orders or Ordinances of War for the Sea, by Examinations of Witneſſes upon Oath, and to give Iudgement, and to cauſe Execution to be done upon ſuch Offenders, according to the Or<g ref="char:EOLhyphen"/>ders, Articles and Ordinances of War eſtabliſh<g ref="char:EOLhyphen"/>ed by Parliament. And the ſaid Commiſſio<g ref="char:EOLhyphen"/>ners, or any four or more of them, whereof one of them to be a Member of this Houſe, as afore<g ref="char:EOLhyphen"/>ſaid, are hereby Authorized and Impowered to do, execute and perform, all and every ſuch fur<g ref="char:EOLhyphen"/>ther and other Authorities, Powers and Inſtru<g ref="char:EOLhyphen"/>ctions, as ſhall from time to time be given unto them by the Parliament.</p>
+            <p>And be it further Enacted, That the ſaid Com<g ref="char:EOLhyphen"/>miſſioners, or any four or more of them, where<g ref="char:EOLhyphen"/>of one of them to be a Member of this Houſe, be, and are hereby Authorized and required to In<g ref="char:EOLhyphen"/>ſpect the Office of the Ordnance, and to Con<g ref="char:EOLhyphen"/>tract, or give order for ſuch Contracts to be made from time to time for all ſuch Proviſions of Stores and Ammunition, as ſhall be requiſite for ſupply of the Fleets, Armies and Gariſons of this Commonwealth, and to give Warrant from time to time to the Treaſurer of the Navy, for the payment of all ſuch Moneys as are alrea<g ref="char:EOLhyphen"/>dy due, or ſhall hereafter become due and owing for any ſuch Stores or Ammunition ſo contra<g ref="char:EOLhyphen"/>cted, or to be contracted for, as aforeſaid: And the ſaid Commiſſioners, or any four or more of them, whereof one of them to be a Member of this Houſe, have hereby Power to make uſe of the Seal of the Anchor, for their Warrants, Commiſſions, Orders, and other Tranſacti<g ref="char:EOLhyphen"/>ons,
+<pb n="7" facs="tcp:169317:5"/>
+and to make choice of, and ap<g ref="char:EOLhyphen"/>point ſuch Clerks and other Officers un<g ref="char:EOLhyphen"/>der them, as they ſhall think meet, with ſitting and competent Salaries to each of them And to direct Payment to be made by the Treaſurer of the Navy, of all ſuch Moneys as ſhall from time to time grow due for any Naval Proviſi<g ref="char:EOLhyphen"/>ons to be delivered into the Publique Stores: As alſo of the Salaries and Wages which now are, or hereafter ſhall grow due to the Commanders, Officers and Seamen ſerving in the Fleet, and to any the Officers and Miniſters rela<g ref="char:EOLhyphen"/>ting to the Admiralty and Navy, and Yards, and to the Office of the Ordnance, as it ſhall from time to time become due and payable to them or either of them re<g ref="char:EOLhyphen"/>ſpectively: And likewiſe of all incident Charges that ſhall be requiſite for carry<g ref="char:EOLhyphen"/>ing on the Service by this Act intruſted with them. And the ſaid Commiſſioners, or any four of them, whereof one of them to be a Member of this Houſe, are here<g ref="char:EOLhyphen"/>by Authorized and required to put in ex<g ref="char:EOLhyphen"/>ecution the Votes and Reſolutions of Parliament Paſſed the Two and twenti<g ref="char:EOLhyphen"/>eth day of <hi>December</hi> One thouſand ſix hundred fifty and two, concerning encou<g ref="char:EOLhyphen"/>ragement to be given to Mariners and Seamen in the Service of the Common<g ref="char:EOLhyphen"/>wealth, and all the particulars therein, and to give ſuch Orders from time to time, as ſhall be requiſite for effecting thereof. And the ſaid Commiſſioners, or any four or more of them, whereof one of
+<pb n="8" facs="tcp:169317:6"/>
+them to be a Member of this Houſe, are hereby Authorized and required, to In<g ref="char:EOLhyphen"/>ſpect, Manage and Order the preſerva<g ref="char:EOLhyphen"/>tion of the Timber and Wood in the Foreſt of <hi>Dean,</hi> and the Works and Concernments there on behalf of the Com<g ref="char:EOLhyphen"/>monwealth: And to give order for the Felling, Cutting down, and making uſe of ſuch and ſo many Timber Trees or Timber, as they ſhall think fit and neceſ<g ref="char:EOLhyphen"/>ſary for the Service of the Navy, either in the Foreſt of <hi>Dean,</hi> or in the <hi>New Foreſt;</hi> and to order the uſe and diſpoſal of ſuch Timber Trees, or other Timber, as are reſerved and excepted upon ſale of the late Kings, or other Lands for the Na<g ref="char:EOLhyphen"/>vies uſe: And the ſaid Commiſſioners are to direct and order the managing and working of the Iron-works lately Ere<g ref="char:EOLhyphen"/>cted in the Foreſt of <hi>Dean,</hi> for the caſting of round ſhot, Iron Ordnance, and ma<g ref="char:EOLhyphen"/>king of Iron for the uſe of the Navy, in the beſt maner as may conduce to the Pub<g ref="char:EOLhyphen"/>lique Service. And the ſaid Commiſſi<g ref="char:EOLhyphen"/>oners, or any four or more of them, whereof one of them to be a Member of this Houſe, are hereby further Autho<g ref="char:EOLhyphen"/>rized and Impowered to iſſue their War<g ref="char:EOLhyphen"/>rants from time to time to the Commiſ<g ref="char:EOLhyphen"/>ſiioners for Prize Goods for the time be<g ref="char:EOLhyphen"/>ing, to deliver to the Commiſſioners for the Navy, or to whom elſe the ſaid Com<g ref="char:EOLhyphen"/>miſſioners for the Admiralty and Navy ſhall appoint, ſuch Prize Ships or Veſ<g ref="char:EOLhyphen"/>ſels, with their Tackle, Furniture, Ord<g ref="char:EOLhyphen"/>nance, Ammunition, or other Proviſions,
+<pb n="9" facs="tcp:169317:6"/>
+after they ſhall be adjudged Prize, as the ſaid Commiſſioners, or any four or more of them, whereof one of them to be a Mem<g ref="char:EOLhyphen"/>ber of this Houſe, as aforeſaid, ſhall judge fit and neceſſary for the uſe and ſervice of the Navy: And the ſaid Commiſſioners are further Authoriſed and required, to uſe their utmoſt endeavors to preſerve the Naval and other publique Stores within their Inſpection and Management, from all Waſtes, Spoils, and Imbezelments; and to that end they are hereby im<g ref="char:EOLhyphen"/>powered to cauſe enquiry or ſearch to be made (as they ſhall judge needful) in any Ships, Hoyes, Veſſels, Houſes, Shops, Cellars, or other Place or Pla<g ref="char:EOLhyphen"/>ces whatſoever, and to Sieze or cauſe to be Siezed and Secured all ſuch Stores, as are or ſhall belong to the State. And the ſaid Commiſſioners, or any four or more of them, whereof one of them to be a Member of this Houſe, as afore<g ref="char:EOLhyphen"/>ſaid, are Authoriſed to ſummon, ſend for, and cauſe to be brought before them ſuch Perſon and Perſons, as ſhall be ſuſpe<g ref="char:EOLhyphen"/>cted or found to have imbezelled any of the Naval Stores, and to cauſe ſuch Perſon or Perſons to be committed to Priſon, to be proceeded againſt according to Law, or to make ſuch ſpeedy and due Satisfa<g ref="char:EOLhyphen"/>ction for ſuch Injury or Prejudice as the Commonwealth ſhall receive thereby. And where the ſaid Commiſſioners ſhall finde any Perſon or Perſons to have abuſed or falſified their Truſts, by Stealing, Im<g ref="char:EOLhyphen"/>bezelling, Buying or Receiving any of
+<pb n="10" facs="tcp:169317:7"/>
+the States Stores, or Countenancing or Abetting the ſame, they or any four or more of them, whereof one of them to be a Member of this Houſe, have hereby power to commit ſuch Perſon or Perſons unto Priſon, during ſuch time as they ſhall think fit, not exceeding the ſpace of four Moneths.</p>
+            <p>And whereas there may happen to be a failer of Moneys in the Prize Office, which by the Votes of Parliament of the 22<hi rend="sup">th</hi> of <hi>December,</hi> 1652. are Aſſigned for Relief of Sick and Wounded Sea-men, and other occaſions mentioned in the ſaid Votes; It is hereby further Enacted, That the ſaid Commiſſioners for the Admiralty, or any four or more of them, whereof one of them to be a Member of this Houſe, be hereby Impowered and Au<g ref="char:EOLhyphen"/>thoriſed, to give Order to the Com<g ref="char:EOLhyphen"/>miſſioners for the Navy to iſſue their Warrants to the Treaſurer of the Navy for payment of ſuch Moneys, for ſupply of the ſaid occaſions, as the ſaid Com<g ref="char:EOLhyphen"/>miſſioners for the Admiralty ſhall think fit, the ſaid Moneys to be re-imburſed into the Treaſury of the Navy, out of the Tenths of Prizes, as they ſhall ariſe. And in like maner the ſaid Commiſſio<g ref="char:EOLhyphen"/>ners for the Admiralty and Navy, or any four or more of them, whereof one of them to be a Member of this Houſe, are hereby Impowered from time to time, to give Warrants to the Com<g ref="char:EOLhyphen"/>miſſioners or Treaſurer for Prize Goods for the iſſuing and payment of ſuch Mo<g ref="char:EOLhyphen"/>neys,
+<pb n="11" facs="tcp:169317:7"/>
+as they ſhall judge neceſſary for Maintenance and Charges of Priſoners that now are remaining in Cuſtody, or which hereafter ſhall happen to be taken in Hoſtility againſt this Commonwealth, during the time of ſuch their Impriſon<g ref="char:EOLhyphen"/>ment. And in caſe of failer of Moneys in the Prize-Office, the ſaid Commiſſio<g ref="char:EOLhyphen"/>ners for the Admiralty, are to give Warrant to the Commiſſioners for the Navy, to make out Bills for payment of ſuch Moneys out of the Treaſury of the Navy, the ſame to be re-im<g ref="char:EOLhyphen"/>burſed into the ſaid Treaſury of the Navy, as Moneys ſhall ariſe, and to be paid into the Prize-Office.</p>
+            <p>And it is further Enacted by the Authority aforeſaid, That for the bet<g ref="char:EOLhyphen"/>ter encouragement and ſecurity of Trade and Commerce, the ſaid Commiſſioners, or any four or more of them, whereof one of them to be a Member of this Houſe, ſhall from time to time order and appoint ſuch Ships, Frigots and Veſſels, of or belonging to the Navy, as they ſhall think fit, for the Convoy<g ref="char:EOLhyphen"/>ing of the Ships and other Veſſels of Trade of this Commonwealth; And in caſe the Captains or other Officers of any ſuch Ships, Frigots or Veſſels, of or belonging to the Navy, ſhall neglect to obey ſuch Orders as they ſhall from time to time receive in this behalf, or ſhall delay the execution thereof, or directly or indirectly take or receive any reward or gratuity for the performance
+<pb n="12" facs="tcp:169317:8"/>
+of their Duty therein, the ſaid Com<g ref="char:EOLhyphen"/>mmiſſioners, or any four or more of them, whereof one of them to be a Member of this Houſe, ſhall be, and are hereby Autho<g ref="char:EOLhyphen"/>rized upon proof thereof, to diſplace and remove every ſuch Captain or other Officer ſo offending as aforeſaid.</p>
+            <p>Provided that this Act ſhall continue and ſtand in force until the Firſt day of <hi>December</hi> One thouſand ſix hundred fifty and nine.</p>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>ORdered by the Parliament, That this Act be forthwith Printed and Publiſhed.</p>
+            <closer>
+               <dateline>
+                  <date>Paſſed <hi>May</hi> 31. 1659.</date>
+               </dateline>
+               <signed>THO. S<hi rend="sup">t</hi> NICHOLAS Clerk of the Parliament.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
